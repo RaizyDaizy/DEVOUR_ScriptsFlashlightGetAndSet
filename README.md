@@ -1,0 +1,2 @@
+# DEVOUR_ScriptsFlashlightGetAndSet
+DEVOUR_ScriptsFlashlightGetAndSet(both scripts) by RaizyDaizy
